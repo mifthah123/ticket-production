@@ -1,0 +1,76 @@
+.header {
+  display: flex;
+  width: 1550px;
+
+  box-shadow: 0px 5px 10px lightgray;
+  height: 60px;
+}
+
+.heading {
+  font-size: larger;
+  font-weight: 500;
+  color: blueviolet;
+  margin-left: 10px;
+}
+
+.filer_main {
+  display: flex;
+}
+
+.filter_data_container {
+  margin-right: 100px;
+}
+
+.filter_box {
+  /* padding: 50px; */
+
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  margin-top: 50px;
+
+  margin-top: 45px;
+  width: 500px;
+  border-radius: 10px;
+}
+
+.filter_header {
+  padding: 10px;
+  width: 480px;
+  border-color: black;
+  border-width: 0;
+  box-shadow: 0px 10px 20px -20px black;
+  border-style: solid;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.filter_heading {
+  font-size: x-large;
+  color: blueviolet;
+}
+
+.filter_comment {
+  padding-top: 30px;
+}
+
+.filter_data {
+  margin-top: 30px;
+  margin-left: 10px;
+  padding-top: 20px;
+  padding-right: 300px;
+  height: 360px;
+}
+
+.filter_input {
+  border-radius: 15px;
+  border-width: 0px;
+  border-color: black;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 3px 8px;
+
+  padding: 10px;
+  width: 450px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  color: black;
+  background-color: #eaebed;
+}

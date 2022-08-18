@@ -1,0 +1,57 @@
+.main_form {
+  padding-top: 0;
+  width: 700px;
+  margin-right: 50px;
+}
+
+.filter_button {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.new_ticket {
+  background-color: blueviolet;
+  border-radius: 10px;
+  border-width: 0;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 3px 8px;
+  color: white;
+  padding: 10px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.new_ticket:hover {
+  outline-color: transparent;
+  outline-style: solid;
+  box-shadow: 0 0 0 4px #5a01a7;
+}
+
+.form_container {
+  margin-top: 10px;
+}
+
+.form_box {
+  margin-top: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width: 500px;
+  border-radius: 10px;
+  border-width: 0;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.filter_create {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.create_ticket {
+  background-color: blueviolet;
+  width: 300px;
+  padding: 5px;
+  border-radius: 10px;
+  border-width: 0;
+  font-size: large;
+  color: white;
+  cursor: pointer;
+}

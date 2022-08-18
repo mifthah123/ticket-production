@@ -1,0 +1,87 @@
+.ticket_form {
+  margin-right: 700px;
+
+  margin-right: 10px;
+}
+
+.ticketdata {
+  padding: 10px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  display: flex;
+  width: 850px;
+  padding-right: 50px;
+  border-width: 0;
+  border-style: solid;
+  border-color: black;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.date_container {
+  padding: 10px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: black;
+  border-radius: 10px;
+  width: 350px;
+  background-color: blueviolet;
+}
+
+.date_day {
+  font-size: large;
+  font-weight: 500;
+}
+
+.ticket_number {
+  display: flex;
+  border-radius: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+  padding: 5px;
+  color: white;
+  background-color: black;
+}
+
+.details_container {
+  display: flex;
+}
+
+.ticket_middle {
+  align-items: flex-start;
+  width: 450px;
+  padding: 10px;
+  justify-content: space-between;
+}
+
+.title {
+  margin-left: 5px;
+  display: flex;
+  font-weight: 500;
+  margin-top: 10px;
+}
+
+.description {
+  display: flex;
+  margin-left: 5px;
+}
+
+.customer_name {
+  display: flex;
+  padding-top: 40px;
+  margin-left: 5px;
+}
+
+.details_bottom {
+  display: flex;
+  width: 320px;
+  justify-content: space-between;
+}
+
+.ticket_task {
+  padding-top: 120px;
+}
+
+.staff_name {
+  padding-top: 120px;
+}
